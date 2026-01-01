@@ -1,0 +1,34 @@
+@media screen and (max-width:390px) {
+    .header-content__title{
+        font-size: 3.8rem;
+    }
+}
+@media screen and (min-width:576px) {
+
+}
+@media screen and (min-width:768px) {
+    .nav__btn, .nav__menu{
+        display: none;
+    }
+    .menu{
+        display: flex;
+    }
+    .menu__link{
+        font-size: 1.5rem;
+    }
+
+
+}
+@media screen and (min-width:992px) {
+    .nav__links{
+        display: block;
+    }
+}
+@media screen and (min-width:1200px) {
+     .menu__link{
+        font-size: 1.8rem;
+    }
+}
+@media screen and (min-width:1400px) {
+
+}

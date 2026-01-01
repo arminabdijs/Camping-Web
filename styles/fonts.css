@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: local('Roboto-Regular'), local('Roboto Regular'),
+        local('RobotoRegular'), url('../assets/fonts/Roboto/Roboto-Regular.ttf') format('trueType');
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: local('Roboto-Medium'), local('Roboto Medium'),
+        local('RobotoMedium'), url('../assets/fonts/Roboto/Roboto-Medium.ttf') format('trueType');
+}
+
+@font-face {
+    font-family: 'Archivo-Black';
+    src: local('Archivo-Black'), local('Archivo Black'),
+        local('ArchivoBlack'), url('../assets/fonts/Archivo/Archivo-Black.ttf') format('trueType');
+}
